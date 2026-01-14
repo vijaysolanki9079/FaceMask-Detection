@@ -1,0 +1,19 @@
+** DATA
+dataset link - https://www.kaggle.com/datasets/omkargurav/face-mask-dataset
+
+
+** Tech Stack
+- Python 3.8 or higher
+- NumPy
+- Pandas
+- Matplotlib
+- OpenCV (opencv-python)
+- TensorFlow
+- Keras
+- Scikit-learn
+- Jupyter Notebook
+
+Optional (for better performance)
+- CUDA (GPU support)
+- cuDNN
+- NVIDIA GPU
